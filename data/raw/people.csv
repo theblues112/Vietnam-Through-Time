@@ -1,0 +1,134 @@
+﻿person_id,person_name,other_names,role,person_category,related_period_id,related_period_name,first_mentioned_year,last_mentioned_year,birth_year,death_year,age_at_death_estimate,importance_score
+PE001,Kinh Dương Vương,,Traditional Hùng king; founder figure of Xích Quỷ,Legendary/traditional ruler,P002,Xích Quỷ / early Hùng tradition,-2879,-2793,,,,4
+PE002,Lạc Long Quân,,Traditional Hùng king of Văn Lang,Legendary/traditional ruler,P003,Văn Lang / Hùng Kings,-2793,-2793,,,,4
+PE003,Hùng Duệ Vương,,Hùng king of Văn Lang,Legendary/traditional ruler,P003,Văn Lang / Hùng Kings,-408,-257,,,,3
+PE004,King Goujian of Yue,,King of Yue; sent messengers to Văn Lang,Foreign ruler,P003,Văn Lang / Hùng Kings,-470,-470,-520,-465,55,2
+PE005,Thục Phán,An Dương Vương,Ruler of Âu Việt; founder of Âu Lạc,Ruler,P004,Âu Lạc,-257,-207,,-207,,5
+PE006,Zhao Tuo,Triệu Đà,Founder and king of Nanyue,Regional ruler,P005,Nanyue / Triệu rule,-207,-179,-240,-137,103,5
+PE007,Xiang Yu,,Chinese warlord mentioned during Qin collapse,Foreign military figure,P005,Nanyue / Triệu rule,-206,-206,-232,-202,30,1
+PE008,Lu Jia,,Han official who negotiated with Zhao Tuo,Foreign official,P005,Nanyue / Triệu rule,-196,-196,,,,2
+PE009,Empress Lü,Lü Zhi,Han empress dowager and regent,Foreign ruler,P005,Nanyue / Triệu rule,-183,-180,-241,-180,61,2
+PE010,Zhao Mo,,King of Nanyue,Regional ruler,P005,Nanyue / Triệu rule,-179,-122,,-122,,3
+PE011,Zhao Yingqi,,King of Nanyue,Regional ruler,P005,Nanyue / Triệu rule,-122,-115,,-115,,2
+PE012,Zhao Xing,,King of Nanyue,Regional ruler,P005,Nanyue / Triệu rule,-115,-112,,-112,,2
+PE013,Lü Jia,,Prime minister of Nanyue and Lạc Việt chief,Political leader,P005,Nanyue / Triệu rule,-112,-112,,-111,,3
+PE014,Zhao Jiande,,Last king of Nanyue,Regional ruler,P005,Nanyue / Triệu rule,-112,-111,,-111,,3
+PE015,Tây Vu Vương,,Leader of revolt against Han forces,Resistance leader,P006,First Chinese domination,-111,-110,,-110,,3
+PE016,Hoàng Đồng,,Assistant connected with Tây Vu Vương,Political actor,P006,First Chinese domination,-110,-110,,,,1
+PE017,Shi Dai,,Governor of Jiaozhou,Foreign official,P006,First Chinese domination,-111,-86,,,,2
+PE018,Tích Quang,,Governor of Jiaozhou,Foreign official,P006,First Chinese domination,2,31,,,,2
+PE019,Su Ding,,Governor of Jiaozhou,Foreign official,P006,First Chinese domination,34,40,,,,2
+PE020,Thi Sách,,Local elite figure connected with the Trưng Sisters era,Vietnamese figure,P006,First Chinese domination,39,39,13,39,26,2
+PE021,Trưng Trắc,One of the Trưng Sisters,Leader of the Trưng Sisters rebellion,Resistance leader,P007,Trưng Sisters uprising,40,43,14,43,29,5
+PE022,Trưng Nhị,One of the Trưng Sisters,Leader of the Trưng Sisters rebellion,Resistance leader,P007,Trưng Sisters uprising,40,43,14,43,29,5
+PE023,Ma Yuan,,Han general who restored Han control after the Trưng uprising,Foreign military figure,P007,Trưng Sisters uprising,43,43,-14,49,62,3
+PE024,Sun Quan,,Founder-emperor of Eastern Wu,Foreign ruler,P008,Second Chinese domination,229,229,182,252,70,1
+PE025,Lady Triệu,Triệu Thị Trinh,Leader of an uprising against Chinese rule,Resistance leader,P008,Second Chinese domination,246,246,226,248,22,5
+PE026,Lý Nam Đế,,Founder and emperor of Vạn Xuân,Ruler / resistance leader,P009,Vạn Xuân / Early Lý and Triệu Việt Vương,544,548,503,548,45,5
+PE027,Emperor Wu of Chen,,Liang/Chen military leader mentioned in Vạn Xuân conflict,Foreign ruler / military figure,P009,Vạn Xuân / Early Lý and Triệu Việt Vương,545,545,503,559,56,2
+PE028,Triệu Việt Vương,,Ruler and military leader of Vạn Xuân,Ruler / military leader,P009,Vạn Xuân / Early Lý and Triệu Việt Vương,546,571,,571,,5
+PE029,Lý Thiên Bảo,,Co-ruler associated with Vạn Xuân,Ruler,P009,Vạn Xuân / Early Lý and Triệu Việt Vương,548,555,,555,,3
+PE030,Hậu Lý Nam Đế,,Claimant and ruler of Vạn Xuân,Ruler,P009,Vạn Xuân / Early Lý and Triệu Việt Vương,557,602,,602,,4
+PE031,Mai Thúc Loan,,Leader of anti-Tang uprising,Resistance leader,P010,Third Chinese domination / Annam period,713,713,670,723,53,4
+PE032,Phùng Hưng,,Leader of anti-Tang uprising,Resistance leader,P010,Third Chinese domination / Annam period,776,776,,791,,4
+PE033,Ngô Quyền,,Founder of the Ngô dynasty,Ruler / military leader,P011,Ngô dynasty and Twelve Warlords transition,938,938,898,944,46,5
+PE034,Đinh Bộ Lĩnh,,Emperor of Đại Cồ Việt; founder of Đinh dynasty,Ruler,P012,Đinh dynasty / Đại Cồ Việt,968,979,924,979,55,5
+PE035,Đinh Liễn,,Crown prince of Đại Cồ Việt,Royal family,P012,Đinh dynasty / Đại Cồ Việt,979,979,945,979,34,2
+PE036,Đinh Phế Đế,,Young emperor of Đại Cồ Việt,Ruler,P012,Đinh dynasty / Đại Cồ Việt,979,980,974,1001,27,2
+PE037,Lê Hoàn,,Founder-emperor of Early Lê dynasty,Ruler / military leader,P013,Early Lê dynasty,979,1005,941,1005,64,5
+PE038,Dương Vân Nga,,Empress dowager of Đại Cồ Việt,Royal / political figure,P013,Early Lê dynasty,979,981,952,1000,48,4
+PE039,Nguyễn Bặc,,Noble opposing Lê Hoàn's rise,Political / military figure,P013,Early Lê dynasty,979,979,924,979,55,2
+PE040,Đinh Điền,,Noble opposing Lê Hoàn's rise,Political / military figure,P013,Early Lê dynasty,979,979,,979,,2
+PE041,Lý Thái Tổ,Lý Công Uẩn,Founder-emperor of the Lý dynasty,Ruler,P014,Lý dynasty,1009,1028,974,1028,54,5
+PE042,Lý Thái Tông,,Emperor of Đại Cồ Việt,Ruler,P014,Lý dynasty,1028,1054,1000,1054,54,3
+PE043,Nùng Tồn Phúc,,Regional warlord who rebelled against Lý rule,Regional leader,P014,Lý dynasty,1038,1038,,1039,,2
+PE044,Lý Thánh Tông,,Emperor of Đại Cồ Việt,Ruler,P014,Lý dynasty,1054,1072,1023,1072,49,4
+PE045,Lý Nhân Tông,,Emperor of Đại Cồ Việt,Ruler,P014,Lý dynasty,1072,1127,1066,1128,62,4
+PE046,Ỷ Lan,,Regent during early reign of Lý Nhân Tông,Political figure / regent,P014,Lý dynasty,1072,1072,1044,1117,73,3
+PE047,Lý Đạo Thành,,Chancellor and regent,Official,P014,Lý dynasty,1072,1072,,1081,,3
+PE048,Lý Cao Tông,,Emperor of Đại Việt,Ruler,P014,Lý dynasty,1176,1209,1173,1210,37,3
+PE049,Tô Hiến Thành,,Regent for Lý Cao Tông,Official / regent,P014,Lý dynasty,1176,1176,1102,1179,77,3
+PE050,Quách Bốc,,General involved in late Lý crisis,Military figure,P014,Lý dynasty,1209,1209,,,,2
+PE051,Lý Thẩm,,Short-lived emperor claimant,Royal figure,P014,Lý dynasty,1209,1209,,,,2
+PE052,Trần Thái Tông,,First emperor of the Trần dynasty,Ruler,P015,Trần dynasty,1226,1258,1218,1277,59,5
+PE053,Trần Thánh Tông,,Emperor of Đại Việt,Ruler,P015,Trần dynasty,1278,1278,1240,1290,50,3
+PE054,Trần Nhân Tông,,Emperor of Đại Việt,Ruler,P015,Trần dynasty,1278,1293,1258,1308,50,5
+PE055,Trần Hưng Đạo,,Commander-in-chief of Đại Việt,Military leader,P015,Trần dynasty,1285,1287,1228,1300,72,5
+PE056,Trần Anh Tông,,Emperor of Đại Việt,Ruler,P015,Trần dynasty,1293,1306,1276,1320,44,3
+PE057,Huyền Trân,,Trần princess connected with Đại Việt–Champa relations,Royal / diplomatic figure,P015,Trần dynasty,1306,1306,1287,1340,53,3
+PE058,Chế Mân,,King of Champa,Foreign ruler,P015,Trần dynasty,1306,1306,,1307,,3
+PE059,Trần Dụ Tông,,Emperor of Đại Việt,Ruler,P015,Trần dynasty,1341,1341,1336,1369,33,2
+PE060,Trần Minh Tông,,Retired emperor and regent,Ruler / regent,P015,Trần dynasty,1341,1341,1300,1357,57,3
+PE061,Hồ Quý Ly,,Founder of Hồ dynasty / Đại Ngu,Ruler / reformer,P016,Hồ dynasty / Đại Ngu,1400,1401,1336,1407,71,5
+PE062,Hồ Hán Thương,,Emperor of Đại Ngu,Ruler,P016,Hồ dynasty / Đại Ngu,1401,1406,1374,1407,33,3
+PE063,Lê Lợi,,Founder-emperor of restored independent Đại Việt,Ruler / resistance leader,P017,Ming occupation and Lam Sơn uprising,1428,1428,1385,1433,48,5
+PE064,Lê Thánh Tông,,Emperor of Đại Việt,Ruler,P018,Later Lê dynasty / early consolidated Lê,1460,1497,1442,1497,55,5
+PE065,Lê Oanh,Lê Tương Dực,Emperor who replaced Lê Uy Mục,Ruler,P018,Later Lê dynasty / early consolidated Lê,1509,1509,1495,1516,21,3
+PE066,Lê Uy Mục,,Emperor of Đại Việt,Ruler,P018,Later Lê dynasty / early consolidated Lê,1509,1509,1488,1509,21,2
+PE067,Trần Tuân,,Leader associated with the Trần Tuân uprising,Rebel leader,P018,Later Lê dynasty / early consolidated Lê,1511,1511,,1511,,2
+PE068,Trần Cao,,Leader of the Trần Cao rebellion,Rebel leader,P018,Later Lê dynasty / early consolidated Lê,1516,1516,,1516,,2
+PE069,Mạc Đăng Dung,,Founder of the Mạc dynasty,Ruler,P019,Mạc dynasty and Lê–Mạc conflict,1527,1527,1483,1541,58,5
+PE070,Lê Cung Hoàng,,Last emperor before Mạc takeover,Ruler,P019,Mạc dynasty and Lê–Mạc conflict,1527,1527,1507,1527,20,3
+PE071,Nguyễn Văn Nhạc,,Tây Sơn ruler,Ruler,P021,Tây Sơn period,1778,1788,1743,1793,50,5
+PE072,Nguyễn Thế Tổ,Nguyễn Ánh; Gia Long,Founder of Nguyễn dynasty,Ruler,P021,Tây Sơn period,1778,1802,1762,1820,58,5
+PE073,Pierre Pigneau de Behaine,,French priest and diplomatic intermediary,Foreign religious/diplomatic figure,P021,Tây Sơn period,1787,1787,1741,1799,58,3
+PE074,Lê Chiêu Thống,,Deposed Lê emperor,Ruler,P021,Tây Sơn period,1788,1788,1765,1793,28,3
+PE075,Nguyễn Văn Huệ,Quang Trung,Tây Sơn emperor and military leader,Ruler / military leader,P021,Tây Sơn period,1788,1792,1753,1792,39,5
+PE076,Nguyễn Quang Toản,Cảnh Thịnh,Tây Sơn ruler after Nguyễn Văn Huệ,Ruler,P021,Tây Sơn period,1792,1802,1783,1802,19,3
+PE077,Nguyễn Du,,Poet and author,Cultural figure,P022,Nguyễn dynasty / independent monarchy,1809,1809,1765,1820,55,5
+PE078,Minh Mạng,,Nguyễn emperor,Ruler,P022,Nguyễn dynasty / independent monarchy,1820,1841,1791,1841,50,4
+PE079,Phan Bá Vành,,Leader associated with Phan Bá Vành uprising,Rebel leader,P022,Nguyễn dynasty / independent monarchy,1825,1825,1780,1827,47,2
+PE080,Nông Văn Vân,,Leader associated with Nông Văn Vân uprising,Rebel leader,P022,Nguyễn dynasty / independent monarchy,1833,1833,,1835,,2
+PE081,Lê Văn Khôi,,Leader associated with Lê Văn Khôi revolt,Rebel leader,P022,Nguyễn dynasty / independent monarchy,1833,1833,,1834,,2
+PE082,Thiệu Trị,,Nguyễn emperor,Ruler,P022,Nguyễn dynasty / independent monarchy,1845,1847,1807,1847,40,3
+PE083,Tự Đức,,Nguyễn emperor,Ruler,P023,French conquest and early colonial takeover,1854,1883,1829,1883,54,4
+PE084,Cao Bá Quát,,Leader associated with Cao Bá Quát uprising,Rebel leader / cultural figure,P022,Nguyễn dynasty / independent monarchy,1854,1854,1809,1855,46,3
+PE085,Thủ Khoa Huân,,Leader associated with Thủ Khoa Huân uprising,Resistance leader,P023,French conquest and early colonial takeover,1859,1859,1830,1875,45,3
+PE086,Trương Định,,Leader associated with anti-French resistance,Resistance leader,P023,French conquest and early colonial takeover,1861,1861,1820,1864,44,4
+PE087,Hàm Nghi,,Nguyễn emperor and anti-French resistance symbol,Ruler / resistance figure,P024,French colonial Vietnam / French Indochina,1885,1888,1871,1944,73,4
+PE088,Đồng Khánh,,Nguyễn emperor during early colonial period,Ruler,P024,French colonial Vietnam / French Indochina,1885,1888,1864,1889,25,3
+PE089,Thành Thái,,Nguyễn emperor during colonial period,Ruler,P024,French colonial Vietnam / French Indochina,1904,1907,1879,1954,75,3
+PE090,Phan Châu Trinh,,Reformist nationalist thinker,Reformer / nationalist,P024,French colonial Vietnam / French Indochina,1906,1906,1872,1926,54,5
+PE091,Khải Định,,Nguyễn emperor during colonial period,Ruler,P024,French colonial Vietnam / French Indochina,1917,1925,1885,1925,40,3
+PE092,Bảo Đại,,Last Nguyễn emperor,Ruler,P025,August Revolution and First Indochina War,1930,1945,1913,1997,84,5
+PE093,Ngô Đình Diệm,,President of the Republic of Vietnam,Political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1955,1963,1901,1963,62,5
+PE094,John F. Kennedy,,U.S. president during early Vietnam War escalation,Foreign political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1961,1963,1917,1963,46,3
+PE095,Ngô Đình Thục,,Archbishop and brother of Ngô Đình Diệm,Religious / political context figure,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1897,1984,87,2
+PE096,Ngô Đình Nhu,,Political figure in South Vietnam,Political figure,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1910,1963,53,3
+PE097,Thích Quảng Đức,,Buddhist monk and protest figure,Religious / protest figure,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1897,1963,66,4
+PE098,Peter Arnett,,Journalist in South Vietnam,Journalist,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1934,,,1
+PE099,David Halberstam,,Journalist in South Vietnam,Journalist,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1934,2007,73,1
+PE100,Dương Văn Minh,,South Vietnamese military and political leader,Military / political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1963,1963,1916,2001,85,4
+PE101,Nguyễn Khánh,,South Vietnamese general and prime minister,Military / political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1964,1964,1927,2013,86,3
+PE102,Lyndon B. Johnson,,U.S. president during Vietnam War escalation,Foreign political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1964,1968,1908,1973,65,4
+PE103,Philip Eldon Smith,,U.S. pilot mentioned in the war timeline,Foreign military figure,P026,"Partition, North/South Vietnam, and Vietnam War",1965,1965,1933,2016,83,1
+PE104,Ferdinand Marcos,,President-elect of the Philippines mentioned in Vietnam War context,Foreign political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1965,1965,1917,1989,72,1
+PE105,Thích Trí Quang,,Buddhist activist in South Vietnam,Religious / protest figure,P026,"Partition, North/South Vietnam, and Vietnam War",1966,1966,1923,2019,96,3
+PE106,Nguyễn Văn Thiệu,,President of South Vietnam,Political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1967,1969,1923,2001,78,5
+PE107,Robert J. Flynn,,U.S. Navy officer mentioned in the timeline,Foreign military figure,P026,"Partition, North/South Vietnam, and Vietnam War",1967,1967,,,,1
+PE108,John McCain,,U.S. Navy pilot and prisoner of war,Foreign military / political figure,P026,"Partition, North/South Vietnam, and Vietnam War",1967,1967,1936,2018,82,2
+PE109,Nguyễn Văn Lém,,Viet Cong officer in a famous 1968 photograph,Military figure,P026,"Partition, North/South Vietnam, and Vietnam War",1968,1968,1931,1968,37,2
+PE110,Nguyễn Ngọc Loan,,South Vietnamese police chief,Security official,P026,"Partition, North/South Vietnam, and Vietnam War",1968,1968,1930,1998,68,2
+PE111,Eddie Adams,,Photojournalist,Journalist / photographer,P026,"Partition, North/South Vietnam, and Vietnam War",1968,1968,1933,2004,71,2
+PE112,Trương Đình Dzu,,South Vietnamese opposition politician,Political figure,P026,"Partition, North/South Vietnam, and Vietnam War",1968,1968,1917,1991,74,2
+PE113,Hồ Chí Minh,,President of North Vietnam,Political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1969,1969,1890,1969,79,5
+PE114,Richard Nixon,,U.S. president during Vietnamization and peace negotiations,Foreign political leader,P026,"Partition, North/South Vietnam, and Vietnam War",1969,1973,1913,1994,81,4
+PE115,Nick Ut,,Associated Press photographer,Journalist / photographer,P026,"Partition, North/South Vietnam, and Vietnam War",1972,1972,1951,,,2
+PE116,Phan Thị Kim Phúc,,Civilian figure in a famous 1972 photograph,Civilian / historical witness,P026,"Partition, North/South Vietnam, and Vietnam War",1972,1972,1963,,,2
+PE117,Jane Fonda,,U.S. actress and antiwar figure,Foreign public figure,P026,"Partition, North/South Vietnam, and Vietnam War",1972,1972,1937,,,1
+PE118,Henry Kissinger,,U.S. national security adviser,Foreign diplomat,P026,"Partition, North/South Vietnam, and Vietnam War",1972,1972,1923,2023,100,2
+PE119,Tôn Đức Thắng,,President of Vietnam,Political leader,P027,Reunified Socialist Republic and postwar conflicts,1976,1980,1888,1980,92,4
+PE120,Nguyễn Hữu Thọ,,President / acting state leader,Political leader,P027,Reunified Socialist Republic and postwar conflicts,1980,1981,1910,1996,86,3
+PE121,Trường Chinh,,Chairman of the State Council,Political leader,P028,Đổi Mới and international integration,1982,1987,1907,1988,81,4
+PE122,Võ Chí Công,,Chairman of the State Council,Political leader,P028,Đổi Mới and international integration,1988,1992,1912,2011,99,3
+PE123,Lê Đức Anh,,President of Vietnam,Political leader,P028,Đổi Mới and international integration,1995,1997,1920,2019,99,3
+PE124,Trần Đức Lương,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2002,2006,1937,,,3
+PE125,Nguyễn Minh Triết,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2006,2011,1942,,,3
+PE126,Trương Tấn Sang,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2011,2016,1949,,,3
+PE127,Trần Đại Quang,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2016,2016,1956,2018,62,3
+PE128,Nguyễn Phú Trọng,,CPV General Secretary,Political leader,P029,Contemporary Vietnam,2021,2024,1944,2024,80,5
+PE129,Nguyễn Xuân Phúc,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2023,2023,1954,,,3
+PE130,Võ Văn Thưởng,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2023,2024,1970,,,3
+PE131,Trương Mỹ Lan,,Business figure connected to Van Thinh Phat case,Business / legal case figure,P029,Contemporary Vietnam,2024,2024,1956,,,2
+PE132,Tô Lâm,,Political leader of Vietnam,Political leader,P029,Contemporary Vietnam,2024,2024,1957,,,4
+PE133,Lương Cường,,President of Vietnam,Political leader,P029,Contemporary Vietnam,2024,2024,1957,,,3
