@@ -1,0 +1,92 @@
+﻿location_id,location_name,modern_name,location_type,modern_country,modern_region,latitude,longitude,first_mentioned_year,related_period_ids
+L002,Lâm Thao district,"Lâm Thao, Phú Thọ",district / archaeological area,Vietnam,Phú Thọ,21.318,105.299,-20000,P001
+L001,Northern Vietnam,Northern Vietnam,region,Vietnam,Northern Vietnam,21.5,105.5,-12000,P001
+L003,Vĩnh Lộc district,"Vĩnh Lộc, Thanh Hóa",district / archaeological area,Vietnam,Thanh Hóa,20.052,105.626,-4000,P001
+L004,Red River Delta,Đồng bằng sông Hồng,region,Vietnam,Northern Vietnam,20.9,106.0,-3500,P001;P003;P004;P007
+L006,Phong Châu,Phong Châu / Việt Trì area,capital / ancient center,Vietnam,Phú Thọ,21.3,105.43,-2879,P002;P003;P009
+L005,Mã River plains,Mã River basin,river plain / region,Vietnam,Thanh Hóa,19.8,105.8,-1200,P003
+L008,Cổ Loa Citadel,"Cổ Loa, Đông Anh, Hanoi",citadel / capital,Vietnam,Hanoi,21.124,105.872,-257,P004;P011
+L007,Hùng Temple,"Đền Hùng, Phú Thọ",cultural_site,Vietnam,Phú Thọ,21.364,105.357,-250,P004
+L010,Jiaozhi,Giao Chỉ region,historical commandery / region,Vietnam,Northern Vietnam,21.0,105.8,-207,P005;P006
+L011,Jiuzhen,Cửu Chân region,historical commandery / region,Vietnam,Thanh Hóa / Nghệ An,19.6,105.7,-207,P005;P006
+L017,Xianyang,Xianyang,foreign city,China,Shaanxi,34.3296,108.708,-206,P005
+L015,Panyu / Guangzhou,Guangzhou,foreign capital / city,China,Guangdong,23.1291,113.2644,-203,P005
+L016,Guilin,Guilin,foreign city / region,China,Guangxi,25.2736,110.29,-203,P005
+L018,Chang'an,Xi'an / Chang'an,foreign capital / city,China,Shaanxi,34.3416,108.9398,-183,P005
+L012,Luy Lâu,"Luy Lâu, Thuận Thành",administrative / cultural center,Vietnam,Bắc Ninh,21.045,106.07,-179,P006;P008
+L019,Zhengding County,"Zhengding, Hebei",foreign county,China,Hebei,38.147,114.57,-179,P005
+L013,Rinan,Nhật Nam region,historical commandery / region,Vietnam,Central Vietnam,16.5,107.6,-48,P006
+L014,Hoành Sơn Range,Hoành Sơn / Ngang Pass area,mountain range,Vietnam,Hà Tĩnh / Quảng Bình,18.0,106.35,-48,P006
+L020,Mê Linh,"Mê Linh, Hanoi area",region / uprising center,Vietnam,Hanoi,21.172,105.724,40,P007
+L021,Long Biên,Long Biên / Hanoi area,capital / administrative center,Vietnam,Hanoi,21.04,105.88,544,P009
+L022,Gia Ninh Citadel,Việt Trì area,citadel,Vietnam,Phú Thọ,21.31,105.41,545,P009
+L023,Việt Trì,Việt Trì,city,Vietnam,Phú Thọ,21.3227,105.4019,545,P009
+L024,Khuất Lão Cave,Khuất Lão Cave,cave / refuge,Vietnam,unknown,,,546,P009
+L025,Dạ Trạch,"Dạ Trạch, Khoái Châu",battle / refuge area,Vietnam,Hưng Yên,20.817,105.965,547,P009
+L026,Khoái Châu District,"Khoái Châu, Hưng Yên",district,Vietnam,Hưng Yên,20.817,105.965,547,P009
+L027,Tống Bình / Đại La,Đại La / Hanoi,administrative center / capital,Vietnam,Hanoi,21.0285,105.8542,602,P010;P014
+L009,Bạch Đằng River,Bạch Đằng River area,river / battlefield,Vietnam,Quảng Ninh / Hải Phòng,20.92,106.78,938,P011;P013
+L028,Hoa Lư,Hoa Lư ancient capital,capital / citadel,Vietnam,Ninh Bình,20.252,105.911,968,P012;P013;P014
+L029,Lạng Sơn,Lạng Sơn,city / battlefield region,Vietnam,Lạng Sơn,21.852,106.761,981,P013
+L030,Indrapura,Indrapura / Đồng Dương area,foreign capital / Cham capital,Vietnam,Quảng Nam,15.73,108.33,982,P013
+L031,Thăng Long,Thăng Long / Hanoi,capital,Vietnam,Hanoi,21.0285,105.8542,1010,P014;P015;P018;P020
+L032,Hanoi,Hanoi,city / modern capital,Vietnam,Hanoi,21.0285,105.8542,1070,P014;P026;P027;P028;P029
+L033,"Temple of Literature, Hanoi",Văn Miếu - Quốc Tử Giám,cultural_site,Vietnam,Hanoi,21.0281,105.8357,1070,P014
+L034,Bình Than,Bình Than / Lục Đầu area,conference site,Vietnam,Hải Dương / Bắc Ninh area,21.115,106.38,1282,P015
+L035,Diên Hồng,Diên Hồng conference / Thăng Long,conference site,Vietnam,Hanoi,21.0285,105.8542,1284,P015
+L036,Huế,Huế,city / imperial capital,Vietnam,Thừa Thiên Huế,16.4637,107.5909,1306,P015;P021;P022;P023;P024
+L037,Citadel of the Hồ Dynasty,Thành Nhà Hồ / Tây Đô,citadel / capital,Vietnam,Thanh Hóa,20.078,105.604,1400,P016
+L038,Đông Quan,Đông Quan / Hanoi,occupation capital / city,Vietnam,Hanoi,21.0285,105.8542,1407,P017
+L039,Lam Sơn,Lam Sơn resistance base,resistance base,Vietnam,Thanh Hóa,20.141,105.425,1418,P017
+L040,Đông Kinh,Đông Kinh / Thăng Long / Hanoi,capital,Vietnam,Hanoi,21.0285,105.8542,1428,P018;P019;P020
+L041,Cao Bằng,Cao Bằng,province / regional base,Vietnam,Cao Bằng,22.666,106.263,1592,P019
+L043,Gia Định,Gia Định / Saigon / Ho Chi Minh City,city / regional center,Vietnam,Ho Chi Minh City,10.7769,106.7009,1778,P020;P021;P026
+L044,Saigon,Saigon / Ho Chi Minh City,city / former capital,Vietnam,Ho Chi Minh City,10.7769,106.7009,1778,P021;P024;P026
+L045,Quy Nhơn,Quy Nhơn,city / capital,Vietnam,Bình Định,13.782,109.219,1778,P021
+L046,Rạch Gầm-Xoài Mút,Rạch Gầm-Xoài Mút / Mỹ Tho area,battlefield,Vietnam,Tiền Giang,10.36,106.35,1785,P021
+L047,Tiền Giang Province,Tiền Giang,province,Vietnam,Mekong Delta,10.45,106.35,1785,P021
+L048,Mekong River,Mekong River in Vietnam,river / region,Vietnam,Mekong Delta,10.5,105.5,1785,P021;P026
+L042,Phú Xuân,Phú Xuân / Huế,capital / campaign site,Vietnam,Thừa Thiên Huế,16.4637,107.5909,1786,P020;P021
+L049,Côn Sơn Island,Côn Sơn / Côn Đảo,island,Vietnam,Bà Rịa-Vũng Tàu,8.686,106.608,1787,P021
+L050,Ngọc Hồi-Đống Đa,"Ngọc Hồi and Đống Đa, Hanoi",battlefield,Vietnam,Hanoi,21.004,105.829,1788,P021
+L051,Bình Thuận,Bình Thuận,province / battlefield region,Vietnam,South Central Coast,11.09,108.11,1790,P021
+L052,Thị Nại,Thị Nại Lagoon / Quy Nhơn Bay,battlefield / lagoon,Vietnam,Bình Định,13.77,109.23,1801,P021
+L053,Trấn Ninh,Trấn Ninh,battlefield / historical region,Vietnam / Laos,unknown,,,1802,P021
+L054,Đà Nẵng,Da Nang,city / port,Vietnam,Đà Nẵng,16.0544,108.2022,1845,P022;P023;P026
+L055,Cochinchina,Nam Kỳ / Cochinchina,colonial region,Vietnam,Southern Vietnam,10.7,106.7,1858,P023;P024
+L056,Quang Yen coalfield,Quảng Yên coalfield / Quảng Ninh,coalfield / economic site,Vietnam,Quảng Ninh,21.0,106.8,1880,P024
+L057,Huế Imperial City,Kinh thành Huế,citadel / imperial site,Vietnam,Thừa Thiên Huế,16.469,107.577,1885,P023;P024
+L058,Algeria,Algeria,foreign exile location,Algeria,North Africa,28.0,2.0,1888,P024
+L059,Thái Nguyên,Thái Nguyên,city / province,Vietnam,Thái Nguyên,21.594,105.848,1917,P024
+L060,Nghệ Tĩnh,Nghệ An / Hà Tĩnh region,region / uprising area,Vietnam,North Central Vietnam,18.7,105.7,1930,P024
+L061,Điện Biên Phủ,Điện Biên Phủ,battlefield / city,Vietnam,Điện Biên,21.386,103.016,1954,P025
+L062,Geneva,Geneva,foreign diplomatic city,Switzerland,Geneva,46.2044,6.1432,1954,P025
+L063,North Vietnam,North Vietnam / Democratic Republic of Vietnam,political region,Vietnam,Northern Vietnam,21.0285,105.8542,1954,P026
+L064,South Vietnam,South Vietnam / Republic of Vietnam,political region,Vietnam,Southern Vietnam,10.7769,106.7009,1954,P026
+L065,Ấp Bắc,"Ấp Bắc, Tiền Giang",battlefield,Vietnam,Tiền Giang,10.42,106.23,1963,P026
+L066,Xá Lợi Pagoda,"Chùa Xá Lợi, Saigon",religious / protest site,Vietnam,Ho Chi Minh City,10.775,106.686,1963,P026
+L067,Gulf of Tonkin,Vịnh Bắc Bộ,sea / conflict area,Vietnam / China,Gulf of Tonkin,20.0,108.0,1964,P026
+L069,Đồng Xoài,Đồng Xoài,battlefield / city,Vietnam,Bình Phước,11.534,106.918,1965,P026
+L070,Vạn Tường peninsula,Vạn Tường / Quảng Ngãi,battlefield / peninsula,Vietnam,Quảng Ngãi,15.32,108.88,1965,P026
+L071,Chu Lai,Chu Lai,military base / port area,Vietnam,Quảng Nam,15.41,108.7,1965,P026
+L072,Ia Drang Valley,Ia Drang Valley,battlefield / valley,Vietnam,Gia Lai,13.5,107.85,1965,P026
+L068,Hải Phòng,Haiphong,city / port,Vietnam,Hải Phòng,20.8449,106.6881,1966,P026
+L073,Long Tân,Long Tan / Phước Tuy,battlefield,Vietnam,Bà Rịa-Vũng Tàu,10.53,107.24,1966,P026
+L074,Quảng Nam / Quảng Tín,Quảng Nam / former Quảng Tín,province / campaign region,Vietnam,Central Vietnam,15.75,108.17,1967,P026
+L075,Đắk Tô,Đắk Tô,battlefield / town,Vietnam,Kon Tum,14.653,107.811,1967,P026
+L076,Khe Sanh,Khe Sanh,battlefield,Vietnam,Quảng Trị,16.627,106.734,1968,P026
+L077,Phong Nhị and Phong Nhất,Phong Nhị / Phong Nhất,massacre site / villages,Vietnam,Quảng Nam,15.83,108.34,1968,P026
+L078,Hà My,"Hà My, Quảng Nam",massacre site / village,Vietnam,Quảng Nam,15.896,108.294,1968,P026
+L079,Mỹ Lai,Mỹ Lai / Sơn Mỹ,massacre site / village,Vietnam,Quảng Ngãi,15.183,108.89,1968,P026
+L080,Ho Chi Minh Trail,Ho Chi Minh Trail,route / logistical network,Vietnam / Laos / Cambodia,Indochina,16.0,106.0,1968,P026
+L081,Hamburger Hill / Dong Ap Bia,Đồi A Bia,battlefield / hill,Vietnam,Thừa Thiên Huế,16.25,107.08,1969,P026
+L082,Sơn Tây prison camp,Sơn Tây,prison camp / raid site,Vietnam,Hanoi area,21.14,105.5,1970,P026
+L083,Demilitarized Zone,Vietnamese DMZ,border zone,Vietnam,Quảng Trị,17.0,106.9,1972,P026
+L084,Long Bình military base,Long Bình / Biên Hòa area,military base,Vietnam,Đồng Nai,10.95,106.87,1972,P026
+L085,Paracel Islands,Hoàng Sa / Paracel Islands,archipelago / maritime dispute,South China Sea,Paracel Islands,16.5,112.0,1974,P026;P029
+L086,Ban Mê Thuột,Buôn Ma Thuột,city / battle site,Vietnam,Đắk Lắk,12.667,108.05,1975,P026
+L087,Spratly Islands,Trường Sa / Spratly Islands,archipelago / maritime dispute,South China Sea,Spratly Islands,10.0,114.0,1975,P026
+L088,Cambodia,Cambodia,foreign country / conflict region,Cambodia,Southeast Asia,12.5657,104.991,1975,P027
+L089,Northern Vietnam border region,Northern Vietnam border,border region,Vietnam / China,Northern Vietnam,22.3,106.0,1979,P027
+L090,Johnson South Reef,Đá Gạc Ma / Johnson South Reef,reef / maritime conflict,South China Sea,Spratly Islands,9.71,114.29,1988,P028
+L091,Ho Chi Minh City,Ho Chi Minh City,city,Vietnam,Ho Chi Minh City,10.7769,106.7009,2021,P029

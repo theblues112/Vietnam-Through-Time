@@ -1,0 +1,46 @@
+{
+  "datasets": [
+    {
+      "dataset": "events",
+      "rows": 473,
+      "columns": 18,
+      "id_column": "event_id",
+      "unique_ids": 473,
+      "blank_ids": 0,
+      "duplicate_id_rows": 0
+    },
+    {
+      "dataset": "people",
+      "rows": 133,
+      "columns": 13,
+      "id_column": "person_id",
+      "unique_ids": 133,
+      "blank_ids": 0,
+      "duplicate_id_rows": 0
+    },
+    {
+      "dataset": "periods",
+      "rows": 29,
+      "columns": 11,
+      "id_column": "period_id",
+      "unique_ids": 29,
+      "blank_ids": 0,
+      "duplicate_id_rows": 0
+    },
+    {
+      "dataset": "locations",
+      "rows": 91,
+      "columns": 10,
+      "id_column": "location_id",
+      "unique_ids": 91,
+      "blank_ids": 0,
+      "duplicate_id_rows": 0
+    }
+  ],
+  "issue_counts": {},
+  "output_files": [
+    "validation_summary.csv",
+    "validation_issues.csv",
+    "validation_missingness.csv"
+  ]
+}

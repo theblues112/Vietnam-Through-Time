@@ -1,0 +1,26 @@
+{
+  "raw_rows": {
+    "events": 473,
+    "people": 133,
+    "periods": 29,
+    "locations": 91
+  },
+  "processed_rows": {
+    "events_clean.csv": 473,
+    "people_clean.csv": 133,
+    "periods_clean.csv": 29,
+    "locations_clean.csv": 91,
+    "event_people.csv": 268,
+    "event_locations.csv": 360,
+    "location_periods.csv": 128
+  },
+  "output_files": [
+    "events_clean.csv",
+    "people_clean.csv",
+    "periods_clean.csv",
+    "locations_clean.csv",
+    "event_people.csv",
+    "event_locations.csv",
+    "location_periods.csv"
+  ]
+}

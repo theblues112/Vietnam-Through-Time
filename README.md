@@ -27,18 +27,16 @@ The project is built from multiple CSV datasets.
 
 | Dataset | Description |
 |---|---|
-| `events_completed.csv` | Main event dataset containing historical events, dates, categories, locations, people, descriptions, and importance scores |
-| `periods.csv` | Historical periods and dynasties of Vietnam |
-| `people_with_life_years.csv` | Important historical figures with roles, related periods, and birth/death years where available |
-| `locations.csv` | Historical and modern locations connected to events |
-| `sources_completed.csv` | Source information used for verification and documentation |
-| `events_completed_data_dictionary.csv` | Explanation of columns in the events dataset |
+| `data/raw/events.csv` | Main event dataset containing historical events, dates, categories, locations, people, descriptions, and importance scores |
+| `data/raw/people.csv` | Important historical figures with roles, related periods, and birth/death years where available |
+| `data/raw/periods.csv` | Historical periods and dynasties of Vietnam |
+| `data/raw/locations.csv` | Historical and modern locations connected to events |
 
 ---
 
 ## Main Event Dataset Columns
 
-The main dataset is `events_completed.csv`.
+The main dataset is `data/raw/events.csv`.
 
 Important columns include:
 
@@ -49,20 +47,17 @@ Important columns include:
 | `year_start` | Start year of the event |
 | `year_end` | End year of the event, if applicable |
 | `year_label` | Human-readable year label, especially useful for BCE dates |
-| `period_id` | ID linking the event to `periods.csv` |
+| `period_id` | ID linking the event to `data/raw/periods.csv` |
 | `period_name` | Historical period or dynasty |
 | `broad_era` | Larger era group, such as Ancient Vietnam or Colonial Vietnam |
 | `category` | Event type, such as Politics, Military, Culture, Economy, or Territory |
-| `location_ids` | IDs linking the event to `locations.csv` |
+| `location_ids` | IDs linking the event to `data/raw/locations.csv` |
 | `location_names` | Names of related locations |
-| `person_ids` | IDs linking the event to `people_with_life_years.csv` |
+| `person_ids` | IDs linking the event to `data/raw/people.csv` |
 | `person_names` | Related historical figures |
 | `description_short` | Short description for dashboard display |
 | `description_long` | Longer explanation of the event |
 | `importance_score` | Project-based score from 1 to 5 |
-| `source_id` | ID linking the event to `sources_completed.csv` |
-| `verification_status` | Whether the event has been checked or still needs review |
-| `date_status` | Whether the date is historical, approximate, disputed, or legendary |
 
 ---
 
@@ -123,37 +118,28 @@ To Lam,1957,,living
 
 ## Project Folder Structure
 
-Recommended project structure:
+Current project structure:
 
 ```text
-vietnam-history-dashboard/
-│
-├── data/
-│   ├── raw/
-│   │   ├── periods.csv
-│   │   ├── people_with_life_years.csv
-│   │   ├── locations.csv
-│   │   ├── events_completed.csv
-│   │   ├── sources_completed.csv
-│   │   └── events_completed_data_dictionary.csv
-│   │
-│   ├── processed/
-│   │   ├── events_clean.csv
-│   │   ├── periods_clean.csv
-│   │   ├── people_clean.csv
-│   │   ├── locations_clean.csv
-│   │   └── sources_clean.csv
-│
-├── notebooks/
-│   ├── 01_data_validation.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_exploratory_analysis.ipynb
-│
-├── dashboard/
-│   └── app.py
-│
-├── README.md
-└── requirements.txt
+Vietnam-Through-Time/
+|
+|-- data/
+|   `-- raw/
+|       |-- events.csv
+|       |-- periods.csv
+|       |-- people.csv
+|       `-- locations.csv
+|
+|-- notebooks/
+|   |-- 01_data_validation.ipynb
+|   |-- 02_data_cleaning.ipynb
+|   `-- 03_exploratory_analysis.ipynb
+|
+|-- dashboard/
+|   `-- app.py
+|
+|-- README.md
+`-- requirements.txt
 ```
 
 ---
@@ -165,15 +151,13 @@ Before building the dashboard, the datasets should be validated.
 Validation checks include:
 
 - Check that all IDs are unique
-- Check that all `period_id` values in events exist in `periods.csv`
-- Check that all `person_ids` in events exist in `people_with_life_years.csv`
-- Check that all `location_ids` in events exist in `locations.csv`
-- Check that all `source_id` values exist in `sources_completed.csv`
+- Check that all `period_id` values in events exist in `data/raw/periods.csv`
+- Check that all `person_ids` in events exist in `data/raw/people.csv`
+- Check that all `location_ids` in events exist in `data/raw/locations.csv`
 - Check that BCE years are stored as negative numbers
 - Check that categories are consistent
 - Check missing values in important columns
 - Check duplicated events
-- Check rows marked as `needs_verification`
 
 ---
 
@@ -392,3 +376,4 @@ This project demonstrates:
 - Research-based visualization
 
 It can be used as a strong data science portfolio project because it combines technical skills with a meaningful historical topic.
+

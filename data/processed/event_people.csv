@@ -1,0 +1,269 @@
+﻿event_id,person_id,person_name
+E0011,PE001,Kinh Dương Vương
+E0012,PE001,Kinh Dương Vương
+E0012,PE002,Lạc Long Quân
+E0053,PE004,King Goujian of Yue
+E0055,PE003,Hùng Duệ Vương
+E0059,PE005,Thục Phán
+E0393,PE005,Thục Phán
+E0394,PE006,Triệu Đà
+E0394,PE005,An Dương Vương
+E0062,PE005,Thục Phán
+E0062,PE006,Zhao Tuo
+E0063,PE006,Zhao Tuo
+E0064,PE007,Xiang Yu
+E0065,PE006,Zhao Tuo
+E0068,PE006,Zhao Tuo
+E0068,PE008,Lu Jia
+E0068,PE013,Lü Jia
+E0069,PE009,Empress Lü
+E0070,PE006,Zhao Tuo
+E0073,PE009,Empress Lü
+E0074,PE006,Zhao Tuo
+E0076,PE006,Zhao Tuo
+E0076,PE010,Zhao Mo
+E0395,PE006,Triệu Đà
+E0078,PE011,Zhao Yingqi
+E0078,PE010,Zhao Mo
+E0080,PE011,Zhao Yingqi
+E0080,PE012,Zhao Xing
+E0081,PE014,Zhao Jiande
+E0081,PE012,Zhao Xing
+E0081,PE008,Lu Jia
+E0081,PE013,Lü Jia
+E0082,PE014,Zhao Jiande
+E0082,PE017,Shi Dai
+E0083,PE015,Tây Vu Vương
+E0084,PE015,Tây Vu Vương
+E0084,PE016,Hoàng Đồng
+E0087,PE018,Tích Quang
+E0090,PE019,Su Ding
+E0091,PE020,Thi Sách
+E0092,PE021,Trưng Trắc
+E0092,PE022,Trưng Nhị
+E0093,PE021,Trưng Trắc
+E0093,PE022,Trưng Nhị
+E0093,PE023,Ma Yuan
+E0397,PE023,Hai Bà Trưng
+E0397,PE024,Mã Viện
+E0094,PE024,Sun Quan
+E0095,PE025,Lady Triệu
+E0399,PE026,Lý Bí
+E0096,PE026,Lý Nam Đế
+E0097,PE027,Emperor Wu of Chen
+E0097,PE026,Lý Nam Đế
+E0098,PE028,Triệu Việt Vương
+E0098,PE026,Lý Nam Đế
+E0100,PE028,Triệu Việt Vương
+E0100,PE029,Lý Thiên Bảo
+E0100,PE026,Lý Nam Đế
+E0101,PE026,Lý Nam Đế
+E0102,PE028,Triệu Việt Vương
+E0103,PE029,Lý Thiên Bảo
+E0104,PE028,Triệu Việt Vương
+E0104,PE030,Hậu Lý Nam Đế
+E0104,PE026,Lý Nam Đế
+E0105,PE028,Triệu Việt Vương
+E0105,PE030,Hậu Lý Nam Đế
+E0105,PE026,Lý Nam Đế
+E0106,PE030,Hậu Lý Nam Đế
+E0106,PE026,Lý Nam Đế
+E0107,PE031,Mai Thúc Loan
+E0108,PE032,Phùng Hưng
+E0407,PE033,Dương Đình Nghệ
+E0109,PE033,Ngô Quyền
+E0408,PE033,Ngô Quyền
+E0409,PE034,Đinh Bộ Lĩnh
+E0111,PE034,Đinh Bộ Lĩnh
+E0111,PE036,Đinh Phế Đế
+E0111,PE035,Đinh Liễn
+E0111,PE037,Lê Hoàn
+E0112,PE038,Dương Vân Nga
+E0112,PE037,Lê Hoàn
+E0113,PE039,Nguyễn Bặc
+E0113,PE040,Đinh Điền
+E0114,PE039,Nguyễn Bặc
+E0114,PE040,Đinh Điền
+E0410,PE036,Lê Hoàn
+E0115,PE037,Lê Hoàn
+E0119,PE037,Lê Hoàn
+E0120,PE041,Lý Thái Tổ
+E0121,PE041,Lý Thái Tổ
+E0122,PE042,Lý Thái Tông
+E0123,PE043,Nùng Tồn Phúc
+E0123,PE042,Lý Thái Tông
+E0124,PE044,Lý Thánh Tông
+E0124,PE042,Lý Thái Tông
+E0411,PE040,Lý Thánh Tông
+E0126,PE044,Lý Thánh Tông
+E0126,PE045,Lý Nhân Tông
+E0126,PE047,Lý Đạo Thành
+E0126,PE046,Ỷ Lan
+E0129,PE045,Lý Nhân Tông
+E0130,PE049,Tô Hiến Thành
+E0130,PE048,Lý Cao Tông
+E0131,PE048,Lý Cao Tông
+E0131,PE050,Quách Bốc
+E0131,PE051,Lý Thẩm
+E0132,PE052,Trần Thái Tông
+E0133,PE052,Trần Thái Tông
+E0134,PE053,Trần Thánh Tông
+E0134,PE054,Trần Nhân Tông
+E0137,PE055,Trần Hưng Đạo
+E0139,PE054,Trần Nhân Tông
+E0139,PE056,Trần Anh Tông
+E0140,PE057,Huyền Trân
+E0140,PE058,Chế Mân
+E0141,PE060,Trần Minh Tông
+E0141,PE059,Trần Dụ Tông
+E0143,PE061,Hồ Quý Ly
+E0145,PE062,Hồ Hán Thương
+E0145,PE061,Hồ Quý Ly
+E0416,PE058,Hồ Quý Ly
+E0147,PE063,Lê Lợi
+E0149,PE064,Lê Thánh Tông
+E0152,PE064,Lê Thánh Tông
+E0153,PE065,Lê Oanh
+E0153,PE066,Lê Uy Mục
+E0154,PE067,Trần Tuân
+E0155,PE068,Trần Cao
+E0157,PE065,Lê Oanh
+E0158,PE070,Lê Cung Hoàng
+E0158,PE069,Mạc Đăng Dung
+E0430,PE079,Nguyễn Văn Huệ
+E0162,PE072,Nguyễn Thế Tổ
+E0163,PE071,Nguyễn Văn Nhạc
+E0164,PE072,Nguyễn Thế Tổ
+E0165,PE072,Nguyễn Thế Tổ
+E0431,PE079,Nguyễn Văn Huệ
+E0169,PE073,Pierre Pigneau de Behaine
+E0169,PE072,Nguyễn Thế Tổ
+E0170,PE074,Lê Chiêu Thống
+E0171,PE071,Nguyễn Văn Nhạc
+E0171,PE075,Nguyễn Văn Huệ
+E0172,PE072,Nguyễn Thế Tổ
+E0174,PE076,Nguyễn Quang Toản
+E0174,PE075,Nguyễn Văn Huệ
+E0180,PE072,Nguyễn Thế Tổ
+E0180,PE076,Nguyễn Quang Toản
+E0433,PE080,Gia Long
+E0433,PE086,Minh Mạng
+E0432,PE080,Gia Long
+E0182,PE077,Nguyễn Du
+E0184,PE072,Nguyễn Thế Tổ
+E0429,PE080,Gia Long
+E0185,PE078,Minh Mạng
+E0434,PE086,Minh Mạng
+E0434,PE087,Thiệu Trị
+E0434,PE088,Tự Đức
+E0186,PE079,Phan Bá Vành
+E0187,PE080,Nông Văn Vân
+E0188,PE081,Lê Văn Khôi
+E0189,PE078,Minh Mạng
+E0190,PE082,Thiệu Trị
+E0193,PE082,Thiệu Trị
+E0194,PE083,Tự Đức
+E0195,PE084,Cao Bá Quát
+E0197,PE085,Thủ Khoa Huân
+E0199,PE086,Trương Định
+E0435,PE088,Tự Đức
+E0203,PE083,Tự Đức
+E0204,PE087,Hàm Nghi
+E0205,PE087,Hàm Nghi
+E0206,PE088,Đồng Khánh
+E0208,PE087,Hàm Nghi
+E0209,PE088,Đồng Khánh
+E0210,PE089,Thành Thái
+E0212,PE090,Phan Châu Trinh
+E0439,PE090,Phan Châu Trinh
+E0213,PE091,Khải Định
+E0215,PE092,Bảo Đại
+E0443,PE097,Hồ Chí Minh
+E0219,PE092,Bảo Đại
+E0444,PE095,Bảo Đại
+E0444,PE096,Trần Trọng Kim
+E0445,PE096,Trần Trọng Kim
+E0445,PE095,Bảo Đại
+E0447,PE096,Trần Trọng Kim
+E0448,PE097,Hồ Chí Minh
+E0449,PE097,Hồ Chí Minh
+E0450,PE097,Hồ Chí Minh
+E0451,PE097,Hồ Chí Minh
+E0454,PE097,Hồ Chí Minh
+E0452,PE097,Hồ Chí Minh
+E0228,PE093,Ngô Đình Diệm
+E0455,PE100,Ngô Đình Diệm
+E0455,PE097,Hồ Chí Minh
+E0232,PE094,John F. Kennedy
+E0235,PE093,Ngô Đình Diệm
+E0235,PE095,Ngô Đình Thục
+E0236,PE093,Ngô Đình Diệm
+E0237,PE097,Thích Quảng Đức
+E0238,PE099,David Halberstam
+E0238,PE093,Ngô Đình Diệm
+E0238,PE098,Peter Arnett
+E0238,PE096,Ngô Đình Nhu
+E0239,PE093,Ngô Đình Diệm
+E0239,PE096,Ngô Đình Nhu
+E0241,PE100,Dương Văn Minh
+E0242,PE100,Dương Văn Minh
+E0242,PE101,Nguyễn Khánh
+E0244,PE101,Nguyễn Khánh
+E0249,PE102,Lyndon B. Johnson
+E0250,PE100,Dương Văn Minh
+E0250,PE101,Nguyễn Khánh
+E0257,PE102,Lyndon B. Johnson
+E0259,PE103,Philip Eldon Smith
+E0264,PE104,Ferdinand Marcos
+E0272,PE105,Thích Trí Quang
+E0279,PE107,Robert J. Flynn
+E0280,PE106,Nguyễn Văn Thiệu
+E0283,PE108,John McCain
+E0288,PE110,Nguyễn Ngọc Loan
+E0288,PE109,Nguyễn Văn Lém
+E0288,PE111,Eddie Adams
+E0297,PE112,Trương Đình Dzu
+E0297,PE086,Trương Định
+E0300,PE102,Lyndon B. Johnson
+E0303,PE106,Nguyễn Văn Thiệu
+E0303,PE114,Richard Nixon
+E0305,PE114,Richard Nixon
+E0306,PE113,Hồ Chí Minh
+E0308,PE114,Richard Nixon
+E0318,PE075,Nguyễn Văn Huệ
+E0319,PE114,Richard Nixon
+E0321,PE116,Phan Thị Kim Phúc
+E0321,PE115,Nick Ut
+E0322,PE117,Jane Fonda
+E0323,PE118,Henry Kissinger
+E0326,PE114,Richard Nixon
+E0327,PE114,Richard Nixon
+E0334,PE106,Nguyễn Văn Thiệu
+E0341,PE119,Tôn Đức Thắng
+E0350,PE119,Tôn Đức Thắng
+E0351,PE120,Nguyễn Hữu Thọ
+E0352,PE121,Trường Chinh
+E0354,PE121,Trường Chinh
+E0356,PE122,Võ Chí Công
+E0359,PE122,Võ Chí Công
+E0361,PE123,Lê Đức Anh
+E0364,PE123,Lê Đức Anh
+E0366,PE124,Trần Đức Lương
+E0368,PE125,Nguyễn Minh Triết
+E0368,PE124,Trần Đức Lương
+E0371,PE125,Nguyễn Minh Triết
+E0371,PE126,Trương Tấn Sang
+E0376,PE126,Trương Tấn Sang
+E0376,PE127,Trần Đại Quang
+E0379,PE128,Nguyễn Phú Trọng
+E0382,PE129,Nguyễn Xuân Phúc
+E0382,PE130,Võ Văn Thưởng
+E0383,PE131,Trương Mỹ Lan
+E0384,PE130,Võ Văn Thưởng
+E0384,PE132,Tô Lâm
+E0385,PE128,Nguyễn Phú Trọng
+E0385,PE132,Tô Lâm
+E0386,PE133,Lương Cường
+E0386,PE132,Tô Lâm
+E0472,PE132,Tô Lâm
+E0473,PE132,Tô Lâm

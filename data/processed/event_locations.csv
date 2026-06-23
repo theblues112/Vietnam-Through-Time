@@ -1,0 +1,361 @@
+﻿event_id,location_id,location_name
+E0003,L002,Lâm Thao district
+E0004,L001,Northern Vietnam
+E0009,L003,Vĩnh Lộc district
+E0010,L004,Red River Delta
+E0011,L006,Phong Châu
+E0389,L004,Red River Delta
+E0390,L004,Red River Delta
+E0045,L004,Red River Delta
+E0391,L006,Phong Châu
+E0391,L001,Northern Vietnam
+E0391,L004,Red River Delta
+E0392,L001,Northern Vietnam
+E0392,L004,Red River Delta
+E0056,L004,Red River Delta
+E0059,L008,Cổ Loa Citadel
+E0060,L007,Hùng Temple
+E0393,L008,Cổ Loa
+E0393,L001,Northern Vietnam
+E0394,L008,Cổ Loa
+E0394,L015,Phiên Ngung
+E0062,L008,Cổ Loa Citadel
+E0063,L010,Jiaozhi
+E0063,L011,Jiuzhen
+E0064,L017,Xianyang
+E0065,L015,Panyu / Guangzhou
+E0066,L016,Guilin
+E0067,L010,Jiaozhi
+E0067,L011,Jiuzhen
+E0070,L018,Chang'an
+E0074,L019,Zhengding County
+E0075,L012,Luy Lâu
+E0395,L015,Phiên Ngung
+E0395,L010,Giao Chỉ
+E0395,L011,Cửu Chân
+E0082,L010,Jiaozhi
+E0082,L011,Jiuzhen
+E0396,L010,Giao Chỉ
+E0396,L004,Red River Delta
+E0086,L014,Hoành Sơn Range
+E0086,L013,Rinan
+E0092,L004,Red River Delta
+E0397,L010,Giao Chỉ
+E0398,L010,Giao Chỉ
+E0399,L010,Giao Chỉ
+E0399,L021,Long Biên
+E0097,L022,Gia Ninh Citadel
+E0097,L021,Long Biên
+E0097,L023,Việt Trì
+E0098,L024,Khuất Lão Cave
+E0099,L026,Khoái Châu District
+E0099,L025,Dạ Trạch
+E0102,L021,Long Biên
+E0105,L006,Phong Châu
+E0400,L027,Đại La
+E0400,L001,Northern Vietnam
+E0401,L027,Đại La
+E0401,L001,Northern Vietnam
+E0402,L027,Đại La
+E0403,L027,Đại La
+E0404,L027,Đại La
+E0405,L027,Đại La
+E0405,L015,Phiên Ngung
+E0406,L010,Giao Chỉ
+E0407,L010,Giao Chỉ
+E0109,L009,Bạch Đằng River
+E0109,L068,Hải Phòng
+E0408,L008,Cổ Loa
+E0408,L009,Bạch Đằng River
+E0409,L028,Hoa Lư
+E0113,L028,Hoa Lư
+E0410,L028,Hoa Lư
+E0115,L028,Hoa Lư
+E0116,L009,Bạch Đằng River
+E0116,L029,Lạng Sơn
+E0118,L030,Indrapura
+E0412,L031,Thăng Long
+E0414,L001,Northern Vietnam
+E0423,L014,Hoành Sơn
+E0121,L028,Hoa Lư
+E0121,L027,Tống Bình / Đại La
+E0411,L031,Thăng Long
+E0125,L033,"Temple of Literature, Hanoi"
+E0125,L008,Cổ Loa Citadel
+E0125,L027,Tống Bình / Đại La
+E0125,L031,Thăng Long
+E0125,L032,Hanoi
+E0125,L038,Đông Quan
+E0125,L040,Đông Kinh
+E0125,L050,Ngọc Hồi-Đống Đa
+E0133,L008,Cổ Loa Citadel
+E0133,L027,Tống Bình / Đại La
+E0133,L031,Thăng Long
+E0133,L032,Hanoi
+E0133,L033,"Temple of Literature, Hanoi"
+E0133,L038,Đông Quan
+E0133,L040,Đông Kinh
+E0133,L050,Ngọc Hồi-Đống Đa
+E0135,L034,Bình Than
+E0136,L035,Diên Hồng
+E0413,L031,Thăng Long
+E0413,L040,Đông Kinh
+E0143,L037,Citadel of the Hồ Dynasty
+E0421,L031,Thăng Long
+E0421,L044,Hội An
+E0422,L031,Thăng Long
+E0426,L085,Hoàng Sa
+E0425,L055,Nam Kỳ
+E0425,L043,Gia Định
+E0427,L049,Côn Đảo
+E0430,L045,Quy Nhơn
+E0162,L043,Gia Định
+E0162,L044,Saigon
+E0162,L066,Xá Lợi Pagoda
+E0163,L045,Quy Nhơn
+E0165,L047,Tiền Giang Province
+E0165,L046,Rạch Gầm-Xoài Mút
+E0165,L048,Mekong River
+E0165,L065,Ấp Bắc
+E0166,L042,Phú Xuân
+E0167,L031,Thăng Long
+E0167,L035,Diên Hồng
+E0167,L040,Đông Kinh
+E0431,L031,Thăng Long
+E0431,L042,Phú Xuân
+E0431,L043,Gia Định
+E0169,L049,Côn Sơn Island
+E0170,L050,Ngọc Hồi-Đống Đa
+E0172,L043,Gia Định
+E0172,L044,Saigon
+E0172,L066,Xá Lợi Pagoda
+E0173,L051,Bình Thuận
+E0175,L045,Quy Nhơn
+E0176,L052,Thị Nại
+E0177,L053,Trấn Ninh
+E0433,L036,Huế
+E0433,L057,Huế Imperial City
+E0432,L036,Huế
+E0429,L087,Trường Sa
+E0434,L036,Huế
+E0191,L054,Đà Nẵng
+E0192,L054,Đà Nẵng
+E0196,L055,Cochinchina
+E0200,L043,Gia Định
+E0200,L044,Saigon
+E0200,L066,Xá Lợi Pagoda
+E0201,L055,Cochinchina
+E0435,L055,Nam Kỳ
+E0435,L032,Hanoi
+E0435,L036,Huế
+E0202,L056,Quang Yen coalfield
+E0205,L057,Huế Imperial City
+E0436,L055,Nam Kỳ
+E0436,L032,Hanoi
+E0436,L036,Huế
+E0208,L058,Algeria
+E0438,L088,Cambodia
+E0437,L032,Hanoi
+E0439,L032,Hanoi
+E0214,L059,Thái Nguyên
+E0440,L032,Hanoi
+E0216,L060,Nghệ Tĩnh
+E0217,L064,South Vietnam
+E0442,L032,Hanoi
+E0442,L044,Saigon
+E0444,L032,Hanoi
+E0444,L036,Huế
+E0444,L044,Saigon
+E0445,L036,Huế
+E0446,L063,North Vietnam
+E0447,L032,Hanoi
+E0447,L036,Huế
+E0448,L032,Hanoi
+E0449,L063,North Vietnam
+E0450,L032,Hanoi
+E0451,L063,North Vietnam
+E0454,L063,North Vietnam
+E0222,L061,Điện Biên Phủ
+E0223,L061,Điện Biên Phủ
+E0224,L062,Geneva
+E0225,L061,Điện Biên Phủ
+E0226,L063,North Vietnam
+E0226,L064,South Vietnam
+E0226,L062,Geneva
+E0227,L063,North Vietnam
+E0227,L064,South Vietnam
+E0227,L088,Cambodia
+E0452,L062,Geneva
+E0452,L063,North Vietnam
+E0452,L064,South Vietnam
+E0453,L063,North Vietnam
+E0453,L064,South Vietnam
+E0228,L064,South Vietnam
+E0229,L063,North Vietnam
+E0229,L064,South Vietnam
+E0455,L063,North Vietnam
+E0455,L064,South Vietnam
+E0456,L064,South Vietnam
+E0232,L064,South Vietnam
+E0233,L043,Gia Định
+E0233,L044,Saigon
+E0233,L066,Xá Lợi Pagoda
+E0234,L065,Ấp Bắc
+E0235,L064,South Vietnam
+E0236,L064,South Vietnam
+E0238,L064,South Vietnam
+E0239,L064,South Vietnam
+E0239,L066,Xá Lợi Pagoda
+E0239,L043,Gia Định
+E0239,L044,Saigon
+E0241,L064,South Vietnam
+E0242,L064,South Vietnam
+E0243,L043,Gia Định
+E0243,L044,Saigon
+E0243,L066,Xá Lợi Pagoda
+E0244,L063,North Vietnam
+E0244,L043,Gia Định
+E0244,L044,Saigon
+E0244,L066,Xá Lợi Pagoda
+E0246,L064,South Vietnam
+E0247,L067,Gulf of Tonkin
+E0248,L067,Gulf of Tonkin
+E0248,L063,North Vietnam
+E0249,L067,Gulf of Tonkin
+E0252,L063,North Vietnam
+E0252,L064,South Vietnam
+E0253,L064,South Vietnam
+E0253,L054,Đà Nẵng
+E0254,L064,South Vietnam
+E0255,L069,Đồng Xoài
+E0257,L064,South Vietnam
+E0258,L070,Vạn Tường peninsula
+E0258,L071,Chu Lai
+E0260,L064,South Vietnam
+E0261,L054,Đà Nẵng
+E0263,L072,Ia Drang Valley
+E0264,L064,South Vietnam
+E0265,L063,North Vietnam
+E0266,L054,Đà Nẵng
+E0267,L068,Hải Phòng
+E0267,L008,Cổ Loa Citadel
+E0267,L027,Tống Bình / Đại La
+E0267,L031,Thăng Long
+E0267,L032,Hanoi
+E0267,L033,"Temple of Literature, Hanoi"
+E0267,L038,Đông Quan
+E0267,L040,Đông Kinh
+E0267,L050,Ngọc Hồi-Đống Đa
+E0268,L063,North Vietnam
+E0269,L063,North Vietnam
+E0270,L008,Cổ Loa Citadel
+E0270,L027,Tống Bình / Đại La
+E0270,L031,Thăng Long
+E0270,L032,Hanoi
+E0270,L033,"Temple of Literature, Hanoi"
+E0270,L038,Đông Quan
+E0270,L040,Đông Kinh
+E0270,L050,Ngọc Hồi-Đống Đa
+E0271,L064,South Vietnam
+E0271,L073,Long Tân
+E0272,L064,South Vietnam
+E0278,L063,North Vietnam
+E0279,L063,North Vietnam
+E0280,L064,South Vietnam
+E0281,L074,Quảng Nam / Quảng Tín
+E0281,L078,Hà My
+E0283,L063,North Vietnam
+E0284,L043,Gia Định
+E0284,L044,Saigon
+E0284,L066,Xá Lợi Pagoda
+E0284,L075,Đắk Tô
+E0286,L076,Khe Sanh
+E0287,L064,South Vietnam
+E0289,L077,Phong Nhị and Phong Nhất
+E0290,L064,South Vietnam
+E0291,L078,Hà My
+E0293,L043,Gia Định
+E0293,L044,Saigon
+E0293,L066,Xá Lợi Pagoda
+E0295,L079,Mỹ Lai
+E0298,L064,South Vietnam
+E0300,L063,North Vietnam
+E0301,L080,Ho Chi Minh Trail
+E0301,L064,South Vietnam
+E0302,L081,Hamburger Hill / Dong Ap Bia
+E0306,L063,North Vietnam
+E0457,L064,South Vietnam
+E0310,L064,South Vietnam
+E0311,L082,Sơn Tây prison camp
+E0317,L083,Demilitarized Zone
+E0317,L064,South Vietnam
+E0318,L068,Hải Phòng
+E0318,L008,Cổ Loa Citadel
+E0318,L027,Tống Bình / Đại La
+E0318,L031,Thăng Long
+E0318,L032,Hanoi
+E0318,L033,"Temple of Literature, Hanoi"
+E0318,L038,Đông Quan
+E0318,L040,Đông Kinh
+E0318,L050,Ngọc Hồi-Đống Đa
+E0319,L068,Hải Phòng
+E0320,L063,North Vietnam
+E0322,L063,North Vietnam
+E0323,L064,South Vietnam
+E0324,L084,Long Bình military base
+E0324,L064,South Vietnam
+E0326,L063,North Vietnam
+E0327,L063,North Vietnam
+E0330,L064,South Vietnam
+E0330,L088,Cambodia
+E0331,L085,Paracel Islands
+E0331,L064,South Vietnam
+E0332,L063,North Vietnam
+E0332,L064,South Vietnam
+E0332,L008,Cổ Loa Citadel
+E0332,L027,Tống Bình / Đại La
+E0332,L031,Thăng Long
+E0332,L032,Hanoi
+E0332,L033,"Temple of Literature, Hanoi"
+E0332,L038,Đông Quan
+E0332,L040,Đông Kinh
+E0332,L050,Ngọc Hồi-Đống Đa
+E0333,L064,South Vietnam
+E0333,L086,Ban Mê Thuột
+E0333,L043,Gia Định
+E0333,L044,Saigon
+E0333,L066,Xá Lợi Pagoda
+E0334,L064,South Vietnam
+E0336,L064,South Vietnam
+E0336,L043,Gia Định
+E0336,L044,Saigon
+E0336,L066,Xá Lợi Pagoda
+E0337,L064,South Vietnam
+E0338,L087,Spratly Islands
+E0338,L063,North Vietnam
+E0338,L064,South Vietnam
+E0339,L063,North Vietnam
+E0339,L064,South Vietnam
+E0339,L043,Gia Định
+E0339,L044,Saigon
+E0339,L066,Xá Lợi Pagoda
+E0340,L088,Cambodia
+E0461,L088,Cambodia
+E0461,L064,South Vietnam
+E0342,L064,South Vietnam
+E0458,L063,North Vietnam
+E0458,L064,South Vietnam
+E0347,L088,Cambodia
+E0459,L091,Ho Chi Minh City
+E0459,L064,South Vietnam
+E0348,L001,Northern Vietnam
+E0349,L088,Cambodia
+E0462,L088,Cambodia
+E0463,L088,Cambodia
+E0357,L090,Johnson South Reef
+E0464,L088,Cambodia
+E0465,L089,Northern Vietnam border region
+E0373,L085,Paracel Islands
+E0380,L043,Gia Định
+E0380,L044,Saigon
+E0380,L091,Ho Chi Minh City

@@ -1,0 +1,5 @@
+﻿dataset,rows,columns,id_column,unique_ids,blank_ids,duplicate_id_rows
+events,473,18,event_id,473,0,0
+people,133,13,person_id,133,0,0
+periods,29,11,period_id,29,0,0
+locations,91,10,location_id,91,0,0
