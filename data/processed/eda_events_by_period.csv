@@ -1,0 +1,30 @@
+﻿period_id,period_name,event_count,start_year,end_year
+P001,Prehistoric Vietnam,10,-25000,-3500
+P002,Xích Quỷ / early Hùng tradition,1,-2879,-2879
+P003,Văn Lang / Hùng Kings,51,-2793,-300
+P004,Âu Lạc,4,-257,-210
+P005,Nanyue / Triệu rule,22,-208,-112
+P006,First Chinese domination,11,-111,39
+P007,Trưng Sisters uprising,2,40,43
+P008,Second Chinese domination,5,43,541
+P009,Vạn Xuân / Early Lý and Triệu Việt Vương,10,544,571
+P010,Third Chinese domination / Annam period,11,602,937
+P011,Ngô dynasty and Twelve Warlords transition,3,938,965
+P012,Đinh dynasty / Đại Cồ Việt,5,968,979
+P013,Early Lê dynasty,6,980,1005
+P014,Lý dynasty,16,1000,1209
+P018,Later Lê dynasty / early consolidated Lê,12,1000,1516
+P015,Trần dynasty,12,1226,1360
+P016,Hồ dynasty / Đại Ngu,4,1400,1406
+P017,Ming occupation and Lam Sơn uprising,2,1407,1407
+P019,Mạc dynasty and Lê–Mạc conflict,3,1527,1533
+P020,Restored Lê and Trịnh–Nguyễn division,11,1558,1708
+P021,Tây Sơn period,17,1771,1801
+P022,Nguyễn dynasty / independent monarchy,23,1802,1854
+P023,French conquest and early colonial takeover,9,1858,1883
+P024,French colonial Vietnam / French Indochina,26,1885,1945
+P025,August Revolution and First Indochina War,8,1945,1950
+P026,"Partition, North/South Vietnam, and Vietnam War",125,1953,1975
+P027,Reunified Socialist Republic and postwar conflicts,19,1975,1982
+P028,Đổi Mới and international integration,20,1986,2006
+P029,Contemporary Vietnam,25,2007,2026

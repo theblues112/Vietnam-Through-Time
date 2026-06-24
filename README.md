@@ -2,7 +2,7 @@
 
 An interactive data visualization project that captures the history of Vietnam through structured datasets, timelines, maps, historical figures, and major events.
 
-The goal of this project is to transform Vietnamese history into an explorable dashboard where users can study different periods, dynasties, people, locations, and historical themes in one place.
+The goal of this project is to transform Vietnamese history into an interactive scrollytelling dashboard that guides users era by era, connecting major events, smaller related events, people, and locations into one visual historical journey.
 
 ---
 
@@ -21,6 +21,31 @@ The project combines historical research, data cleaning, data modeling, and inte
 
 ---
 
+## Project Experience
+
+The dashboard is designed around two modes.
+
+### Story Mode
+
+Story Mode is the main guided experience. Each scroll section represents one major era in Vietnamese history:
+
+- Ancient Vietnam
+- Bắc thuộc and resistance
+- Independent dynastic Vietnam
+- Division and Nam tiến
+- Nguyễn dynasty and French colonization
+- Revolution and war
+- Vietnam War
+- Đổi Mới and modern Vietnam
+
+Each era can show an era title, time range, short historical summary, major events, smaller connected events, key people, key locations, a map, and historical certainty/status. Events are arranged as connected sequences so users can follow how one turning point leads to another.
+
+### Explore Mode
+
+Explore Mode is the full dashboard for all events. Users can filter and search the complete dataset by period, broad era, category, importance score, people, locations, and timeline range.
+
+---
+
 ## Dataset Overview
 
 The project is built from multiple CSV datasets.
@@ -31,6 +56,8 @@ The project is built from multiple CSV datasets.
 | `data/raw/people.csv` | Important historical figures with roles, related periods, and birth/death years where available |
 | `data/raw/periods.csv` | Historical periods and dynasties of Vietnam |
 | `data/raw/locations.csv` | Historical and modern locations connected to events |
+| `data/processed/story_eras.csv` | Story Mode eras used as the main scrollytelling sections |
+| `data/processed/story_events.csv` | Selected ordered events for each Story Mode era |
 
 ---
 
@@ -124,11 +151,18 @@ Current project structure:
 Vietnam-Through-Time/
 |
 |-- data/
-|   `-- raw/
-|       |-- events.csv
-|       |-- periods.csv
-|       |-- people.csv
-|       `-- locations.csv
+|   |-- raw/
+|   |   |-- events.csv
+|   |   |-- periods.csv
+|   |   |-- people.csv
+|   |   `-- locations.csv
+|   `-- processed/
+|       |-- events_clean.csv
+|       |-- periods_clean.csv
+|       |-- people_clean.csv
+|       |-- locations_clean.csv
+|       |-- story_eras.csv
+|       `-- story_events.csv
 |
 |-- notebooks/
 |   |-- 01_data_validation.ipynb
@@ -163,69 +197,44 @@ Validation checks include:
 
 ## Dashboard Plan
 
-The first dashboard version will be built with Streamlit.
+The dashboard will be built around two complementary modes.
 
-Suggested dashboard pages:
+### 1. Story Mode
 
-### 1. Overview Page
+Story Mode is a scrollytelling journey through the major eras of Vietnamese history. It uses `story_eras.csv` to define each scroll section and `story_events.csv` to define the connected sequence of major and supporting events inside each era.
 
-Main summary of the dataset.
+Each era section should include:
 
-Possible visuals:
+- Era title and time range
+- Short historical summary
+- Connected event sequence with arrows
+- Major events and smaller related events
+- Key people
+- Key locations
+- Map view
+- Historical certainty/status note
 
-- Total number of events
-- Total periods
-- Total people
-- Total locations
-- Events by broad era
-- Events by category
-- Most important events
+### 2. Explore Mode
 
-### 2. Historical Timeline
+Explore Mode is a full interactive dashboard for all events in the dataset.
 
-Interactive timeline of Vietnamese history.
+Suggested views:
 
-Filters:
+- Overview metrics for events, periods, people, and locations
+- Interactive timeline with filters
+- Map of historical locations
+- People and event relationships
+- Category and importance score summaries
+
+Explore filters:
 
 - Broad era
 - Period
 - Category
 - Importance score
-- Date status
-- Verification status
-
-### 3. Historical Map
-
-Map of event locations.
-
-Features:
-
-- Plot historical locations using latitude and longitude
-- Filter by period and category
-- Click a location to view related events
-- Mark approximate locations clearly
-
-### 4. People and Events
-
-Explore historical figures.
-
-Features:
-
-- Important figures by period
-- People ranked by importance score
-- Events connected to each person
-- Life years where available
-
-### 5. Sources and Verification
-
-Show transparency of the dataset.
-
-Features:
-
-- Events by source
-- Events needing verification
-- Disputed or approximate dates
-- Legendary/traditional ancient entries
+- Year range
+- Person
+- Location
 
 ---
 
